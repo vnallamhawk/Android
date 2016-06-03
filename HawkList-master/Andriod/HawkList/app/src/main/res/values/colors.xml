@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login and Register-->
+    <color name="bg_login">#125688</color>
+    <color name="bg_register">#125688</color>
+    <color name="bg_main">#125688</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#125688</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#125688</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#999999</color>
+    <color name="btn_login">#125688</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_register">#125688</color>
+    <color name="btn_register_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#125688</color>
+
+    <!-- Menu-->
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+
+    <!--Photo-->
+    <color name="view_background">#ffffff</color>
+    <color name="btn_select_photo_bg">#125688</color>
+    <color name="btn_take_photo_bg">#125688</color>
+    <color name="btn_upload_bg">#125688</color>
+    <color name="txt_font">#125688</color>
+    <color name="action_bar">#1f2649</color>
+
+    <!--Photo-->
+    <color name="itemname">#125688</color>
+    <color name="cost">#125688</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+
+
+</resources>
